@@ -1,0 +1,391 @@
+[13-Apr-2015 00:06:24 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 00:06:35 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 00:11:34 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 01:55:23 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 01:57:13 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 03:01:22 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 03:20:53 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 03:20:59 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 03:25:02 America/New_York] PHP Notice:  Undefined offset: 0 in /home/arbalest/public_html/CZ3003/updated/report.php on line 243
+[13-Apr-2015 03:25:02 America/New_York] PHP Notice:  Undefined variable: message in /home/arbalest/public_html/CZ3003/updated/report.php on line 139
+[13-Apr-2015 03:46:22 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 03:46:32 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 03:48:12 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 04:15:09 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/arbalest/public_html/CZ3003/updated/report.php on line 141
+[13-Apr-2015 04:15:22 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/arbalest/public_html/CZ3003/updated/report.php on line 141
+[13-Apr-2015 04:15:59 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/arbalest/public_html/CZ3003/updated/report.php on line 141
+[13-Apr-2015 04:16:01 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/arbalest/public_html/CZ3003/updated/report.php on line 141
+[13-Apr-2015 04:17:04 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/arbalest/public_html/CZ3003/updated/report.php on line 141
+[13-Apr-2015 04:18:45 America/New_York] PHP Notice:  Use of undefined constant Y - assumed 'Y' in /home/arbalest/public_html/CZ3003/updated/report.php on line 148
+[13-Apr-2015 04:18:45 America/New_York] PHP Notice:  Use of undefined constant M - assumed 'M' in /home/arbalest/public_html/CZ3003/updated/report.php on line 148
+[13-Apr-2015 04:18:45 America/New_York] PHP Notice:  Use of undefined constant D - assumed 'D' in /home/arbalest/public_html/CZ3003/updated/report.php on line 148
+[13-Apr-2015 04:39:48 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/arbalest/public_html/CZ3003/updated/report.php on line 170
+[13-Apr-2015 04:40:49 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/arbalest/public_html/CZ3003/updated/report.php on line 170
+[13-Apr-2015 04:41:09 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/arbalest/public_html/CZ3003/updated/report.php on line 170
+[13-Apr-2015 04:41:42 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/arbalest/public_html/CZ3003/updated/report.php on line 170
+[13-Apr-2015 04:41:43 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/arbalest/public_html/CZ3003/updated/report.php on line 170
+[13-Apr-2015 04:42:21 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/arbalest/public_html/CZ3003/updated/report.php on line 158
+[13-Apr-2015 04:42:23 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/arbalest/public_html/CZ3003/updated/report.php on line 158
+[13-Apr-2015 04:42:27 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/arbalest/public_html/CZ3003/updated/report.php on line 158
+[13-Apr-2015 04:44:33 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 04:46:16 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 04:46:36 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 04:52:03 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 04:55:20 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 04:57:07 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 04:57:46 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 05:37:45 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:38:24 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:39:07 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:40:31 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:41:37 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:45:34 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:46:39 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:46:43 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:47:53 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:49:31 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:51:07 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:51:36 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:53:15 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:54:43 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:55:07 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:55:50 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:55:53 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:56:43 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:57:16 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 05:57:37 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 05:57:42 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 05:58:18 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:01:09 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:01:12 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:05:25 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:05:31 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:07:08 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:08:32 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:09:26 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:10:01 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:10:45 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:10:57 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:11:53 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:13:03 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:13:26 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:14:10 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 06:14:29 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 06:37:15 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:40:18 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 06:44:41 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 06:46:45 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 06:46:48 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:46:57 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:49:23 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 06:50:59 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:52:21 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 06:57:24 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 06:59:10 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 06:59:10 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 07:00:23 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 07:00:49 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 07:02:19 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:02:22 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 07:02:39 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:02:48 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:03:19 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:03:55 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 07:04:01 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:04:52 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 07:05:00 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:06:10 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:06:10 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 07:06:36 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 07:06:37 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:06:50 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:08:26 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:09:01 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:09:39 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:09:41 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:10:09 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:13:34 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:17:35 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:23:57 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:32:28 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:33:20 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:33:20 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 07:34:06 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 07:52:11 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 07:52:11 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 09:50:20 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 09:50:20 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 09:50:56 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 09:50:56 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 09:52:15 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 09:52:15 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 09:53:07 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 09:53:07 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 09:53:43 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 09:55:09 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 09:55:32 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 09:55:33 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 09:57:20 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 09:57:23 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 09:57:29 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 09:57:29 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 09:57:56 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 09:57:56 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 10:00:47 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:05:10 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:06:24 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:07:25 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:08:20 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:09:31 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:10:17 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:12:14 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:13:16 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:13:20 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:13:45 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 10:13:59 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:14:55 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:15:25 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:16:12 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:16:51 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:17:21 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:18:04 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:18:28 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:19:27 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:21:25 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:21:51 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:22:25 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:22:44 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:23:42 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:24:25 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:24:34 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:25:03 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 10:25:34 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:25:44 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:27:03 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:27:03 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:28:06 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:28:36 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:29:10 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:30:42 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:31:16 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:31:26 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:32:33 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:32:52 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 196
+[13-Apr-2015 10:39:19 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 10:40:07 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 10:40:07 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 11:12:05 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:12:14 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:12:22 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:12:59 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:13:09 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:14:41 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:14:49 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:16:23 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:16:23 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 11:26:26 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:26:28 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:27:09 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/manage_event.php on line 2
+[13-Apr-2015 11:27:35 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:27:39 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/manage_event.php on line 2
+[13-Apr-2015 11:27:39 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:27:42 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/manage_event.php on line 2
+[13-Apr-2015 11:27:42 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:27:48 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:27:48 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/manage_event.php on line 2
+[13-Apr-2015 11:27:49 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:27:50 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/manage_event.php on line 2
+[13-Apr-2015 11:27:51 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:29:05 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:29:12 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/manage_event.php on line 2
+[13-Apr-2015 11:29:12 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:29:18 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/manage_crisis.php on line 2
+[13-Apr-2015 11:29:19 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:29:23 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:29:30 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/manage_event.php on line 2
+[13-Apr-2015 11:29:30 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:29:38 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/manage_crisis.php on line 2
+[13-Apr-2015 11:29:38 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:29:51 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:29:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/report.php on line 2
+[13-Apr-2015 11:29:52 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:29:55 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/report.php on line 2
+[13-Apr-2015 11:29:55 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:30:39 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/manage_crisis.php on line 2
+[13-Apr-2015 11:30:47 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:30:50 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/manage_event.php on line 2
+[13-Apr-2015 11:30:51 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:30:55 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/manage_event.php on line 2
+[13-Apr-2015 11:30:56 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:31:24 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:31:30 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/manage_event.php on line 2
+[13-Apr-2015 11:31:31 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:31:35 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:31:36 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/report.php on line 2
+[13-Apr-2015 11:31:36 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:31:39 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/manage_event.php on line 2
+[13-Apr-2015 11:31:39 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:32:21 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:32:25 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/manage_event.php on line 2
+[13-Apr-2015 11:32:25 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:32:27 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/report.php on line 2
+[13-Apr-2015 11:32:27 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:32:47 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:32:53 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:32:54 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/manage_event.php on line 2
+[13-Apr-2015 11:32:54 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:32:57 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/manage_event.php on line 2
+[13-Apr-2015 11:32:57 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:34:22 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:35:12 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:35:17 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:35:21 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:35:32 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/arbalest/public_html/CZ3003/updated/manage_event.php on line 2
+[13-Apr-2015 11:35:33 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:36:46 America/New_York] PHP Parse error:  syntax error, unexpected T_EXIT, expecting ',' or ';' in /home/arbalest/public_html/CZ3003/updated/report.php on line 24
+[13-Apr-2015 11:36:48 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:36:51 America/New_York] PHP Parse error:  syntax error, unexpected T_EXIT, expecting ',' or ';' in /home/arbalest/public_html/CZ3003/updated/report.php on line 24
+[13-Apr-2015 11:37:59 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:38:04 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:38:14 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:38:19 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:50:20 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:58:08 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:58:08 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 11:59:04 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:59:04 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 11:59:19 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:59:30 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 11:59:52 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:00:25 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:00:33 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:02:18 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:06:05 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/manage_crisis.php on line 51
+[13-Apr-2015 12:17:01 America/New_York] PHP Parse error:  syntax error, unexpected T_PLUS_EQUAL in /home/arbalest/public_html/CZ3003/updated/PMO.php on line 16
+[13-Apr-2015 12:20:50 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:20:50 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 12:20:51 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:20:51 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 12:21:12 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:21:12 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 12:21:15 America/New_York] PHP Parse error:  syntax error, unexpected T_CONCAT_EQUAL in /home/arbalest/public_html/CZ3003/updated/PMO.php on line 16
+[13-Apr-2015 12:21:15 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:21:15 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 12:21:25 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:21:25 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 12:21:34 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:21:34 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 12:21:35 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:21:35 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 12:21:43 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:21:43 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 12:27:53 America/New_York] PHP Notice:  Undefined index: type in /home/arbalest/public_html/CZ3003/updated/PMO.php on line 17
+[13-Apr-2015 12:29:24 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:29:28 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:30:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:30:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:30:01 America/New_York] PHP Notice:  Undefined index: type in /home/arbalest/public_html/CZ3003/updated/PMO.php on line 17
+[13-Apr-2015 12:31:40 America/New_York] PHP Notice:  Undefined index: type in /home/arbalest/public_html/CZ3003/updated/PMO.php on line 17
+[13-Apr-2015 12:31:40 America/New_York] PHP Notice:  Undefined index: status in /home/arbalest/public_html/CZ3003/updated/PMO.php on line 17
+[13-Apr-2015 12:31:40 America/New_York] PHP Notice:  Undefined index: type in /home/arbalest/public_html/CZ3003/updated/PMO.php on line 17
+[13-Apr-2015 12:31:40 America/New_York] PHP Notice:  Undefined index: status in /home/arbalest/public_html/CZ3003/updated/PMO.php on line 17
+[13-Apr-2015 12:31:40 America/New_York] PHP Notice:  Undefined index: type in /home/arbalest/public_html/CZ3003/updated/PMO.php on line 17
+[13-Apr-2015 12:31:40 America/New_York] PHP Notice:  Undefined index: status in /home/arbalest/public_html/CZ3003/updated/PMO.php on line 17
+[13-Apr-2015 12:31:40 America/New_York] PHP Notice:  Undefined index: type in /home/arbalest/public_html/CZ3003/updated/PMO.php on line 28
+[13-Apr-2015 12:31:40 America/New_York] PHP Notice:  Undefined index: status in /home/arbalest/public_html/CZ3003/updated/PMO.php on line 28
+[13-Apr-2015 12:31:40 America/New_York] PHP Notice:  Undefined index: type in /home/arbalest/public_html/CZ3003/updated/PMO.php on line 28
+[13-Apr-2015 12:31:40 America/New_York] PHP Notice:  Undefined index: status in /home/arbalest/public_html/CZ3003/updated/PMO.php on line 28
+[13-Apr-2015 12:34:14 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:56:18 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:57:51 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:58:21 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:58:27 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:58:32 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 12:59:18 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 204
+[13-Apr-2015 13:00:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 13:00:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 13:02:31 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 204
+[13-Apr-2015 13:04:24 America/New_York] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 204
+[14-Apr-2015 01:09:42 Asia/Singapore] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 205
+[14-Apr-2015 01:12:29 Asia/Singapore] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 205
+[13-Apr-2015 13:13:04 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[14-Apr-2015 01:13:08 Asia/Singapore] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/report.php on line 22
+[13-Apr-2015 13:13:09 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 13:13:26 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[14-Apr-2015 01:16:08 Asia/Singapore] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 205
+[13-Apr-2015 13:17:37 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 13:30:02 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 13:30:02 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 14:00:02 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 14:00:02 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 14:30:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 14:30:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 15:00:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 15:00:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 15:30:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 15:30:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 16:00:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 16:00:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 16:30:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 16:30:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 17:00:02 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 17:00:02 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 17:30:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 17:30:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 18:00:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 18:00:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 18:30:02 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 18:30:02 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 19:00:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 19:00:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 19:30:02 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 19:30:02 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 20:00:02 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 20:00:02 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 20:30:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 20:30:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 20:57:14 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 20:57:14 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 20:57:38 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 20:57:38 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 20:57:46 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 20:58:15 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:00:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:00:01 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:19:54 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:19:54 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 21:20:16 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:20:16 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 21:20:24 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:20:44 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:20:44 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 21:25:58 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:26:08 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:26:14 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:26:19 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:27:33 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:27:46 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/manage_event.php on line 51
+[13-Apr-2015 21:29:18 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:30:02 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:30:02 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[14-Apr-2015 09:30:06 Asia/Singapore] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 205
+[13-Apr-2015 21:31:19 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:31:23 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:32:25 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:32:44 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:34:00 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:34:31 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:34:31 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 21:49:42 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 21:49:42 America/New_York] PHP Notice:  Undefined index: usertype in /home/arbalest/public_html/CZ3003/updated/navi.php on line 11
+[13-Apr-2015 21:49:49 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 22:00:02 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 22:00:02 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 22:14:06 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[14-Apr-2015 10:15:08 Asia/Singapore] PHP Notice:  Use of undefined constant result - assumed 'result' in /home/arbalest/public_html/CZ3003/updated/report.php on line 205
+[13-Apr-2015 22:16:22 America/New_York] PHP Notice:  Undefined variable: reportIDMail in /home/arbalest/public_html/CZ3003/updated/edit_event.php on line 91
+[13-Apr-2015 22:17:26 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 22:17:38 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 22:18:07 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 22:30:02 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
+[13-Apr-2015 22:30:02 America/New_York] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent in /home/arbalest/public_html/CZ3003/updated/connect.php on line 2
